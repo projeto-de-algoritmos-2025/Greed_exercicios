@@ -6,7 +6,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 20/0059980  | Pedro Miguel dos Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 21/1062910  |  Daniel Nunes Duarte |
 
 ## Sobre
 
