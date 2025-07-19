@@ -22,3 +22,9 @@ Resolver questões de nível técnico dificil e médio sobre o conteudo estudado
 ### Questão 2454
 
 ![Resultado da Questão 2406](./imgs/result_Q2454.png)
+
+---
+### Questão 556
+
+![Resultado da Questão 2406](./imgs/result_Q556.png)
+
