@@ -12,7 +12,7 @@
 
 Nesse projeto resolvemos três questões do tema Greedy:
 
-- A primeira questão é a 2406 de nível médio, que pode ser encontrada em [Questão 2406 - Média](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/). Ela trata sobre dividir intervalos em grupos mínimos, resolvida em Python.
+- A primeira questão é a 2406 de nível Difícil, que pode ser encontrada em [Questão 2406 - Média](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/). Ela trata sobre dividir intervalos em grupos mínimos, resolvida em Python.
 
 - A segunda questão é a 2454 de nível difícil, disponível em [Questão 2454 - Difícil](https://leetcode.com/problems/next-greater-element-iv/description/). O desafio consiste em encontrar o segundo maior elemento à direita de cada posição, resolvida em Python.
 
