@@ -16,4 +16,4 @@ Resolver questões de nível técnico dificil e médio sobre o conteudo estudado
 
 ### Questão 2406
 
-![Resultado da Questão 2406](./img/result-Q-2406.png)
+![Resultado da Questão 2406](./imgs/result-Q-2406.png)
