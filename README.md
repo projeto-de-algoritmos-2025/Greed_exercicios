@@ -61,7 +61,7 @@ Nesse projeto resolvemos quatro questões do tema Greedy:
 
 #### Medium
 
-![Resultado da questão 556](./imgs/result_q134.png)
+![Resultado da questão 134](./imgs/result_q134.png)
 
 ---
 
