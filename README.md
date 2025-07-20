@@ -76,3 +76,7 @@ Nesse projeto resolvemos quatro questões do tema Greedy:
 3. Para realizar a execução e teste, aperte o botão "play" na página ao lado do botão "submit".
 
 Obs.: Necessário estar logado na página LeetCode.
+
+## Apresentação
+
+Vídeo disponível em: [youtube](https://youtu.be/cwOpy0xbK8c)
